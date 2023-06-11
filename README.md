@@ -2,4 +2,5 @@ I have done a research about several cities in Germany. This project provides di
 * Germany_analysis.xlsx - collected data from various sources
 * Python_calculation.ipynb - calculations in Python, getting insights 
 * Final_data.xlsx - export from Python for making Power BI dashboards
-* Final_result.pbix - Power BI dashboards
+* Final_result_EN.pbix - Power BI report in English language
+* Endergebnis_DE.pbix - Power BI report in German language
