@@ -2,6 +2,7 @@ I have conducted research on several cities in Germany. This project provides va
 
 * Germany_analysis.xlsx - collected data from various sources.
 * Python_calculation.ipynb - calculations in Python, extracting insights.
-* Final_data.xlsx - data exported from Python for subsequent Power BI visualization.
+* Final_data.xlsx - Data exported from Python for subsequent Power BI visualization in English.
+* Final_data_DE.xlsx - Data exported from Python for subsequent Power BI visualization in German.
 * Final_result_EN.pbix - Power BI report in English.
 * Endergebnis_DE.pbix - Power BI report in German.
