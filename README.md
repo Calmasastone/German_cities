@@ -1,4 +1,4 @@
-I have done a research about several cities in Germany. This project provides different information such as approximate salaries, expenses, air quality, unemployment rate etc, that information people are usually interested in, when they decide to which city would they like to live and work in. I won't consider the best city in Germany, because each of them have their own individual characteristics and you need to figure it out which one suit you.
+I have conducted research on several cities in Germany. This project provides various information, such as approximate salaries, expenses, air quality, and unemployment rates. This information is usually of interest to people when they are deciding which city they would like to live and work in. I won't claim that there is a single best city in Germany, as each of them has its own individual characteristics. You need to figure out which one suits you.
 
 * Germany_analysis.xlsx - collected data from various sources.
 * Python_calculation.ipynb - calculations in Python, getting insights.
