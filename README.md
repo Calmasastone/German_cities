@@ -6,3 +6,5 @@ I have conducted research on several cities in Germany. This project provides va
 * Final_data_DE.xlsx - Data exported from Python for subsequent Power BI visualization in German.
 * Final_result_EN.pbix - Power BI report in English.
 * Endergebnis_DE.pbix - Power BI report in German.
+* Final_result_EN.pdf - Same report in English if you don't have Power BI (but I strongly recommend to use Power BI version as it's more interactive).
+* Endergebnis_DE.pdf - Same report in German if you don't have Power BI (but I strongly recommend to use Power BI version as it's more interactive).
