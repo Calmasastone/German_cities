@@ -8,11 +8,11 @@ This project covers crucial aspects of German cities:
 
 GitHub files:
 
-Germany_analysis.xlsx - collected data from various sources.
-Python_calculation.ipynb - calculations in Python, extracting insights.
-Final_data.xlsx - Data exported from Python for subsequent Power BI visualization in English.
-Final_data_DE.xlsx - Data exported from Python for subsequent Power BI visualization in German.
-Final_result_EN.pbix - Power BI report in English.
-Endergebnis_DE.pbix - Power BI report in German.
-Final_result_EN.pdf - Same report in English if you don't have Power BI.
-Endergebnis_DE.pdf - Same report in German if you don't have Power BI.
+1. Germany_analysis.xlsx - collected data from various sources.
+2. Python_calculation.ipynb - calculations in Python, extracting insights.
+3. Final_data.xlsx - Data exported from Python for subsequent Power BI visualization in English.
+4. Final_data_DE.xlsx - Data exported from Python for subsequent Power BI visualization in German.
+5. Final_result_EN.pbix - Power BI report in English.
+6. Endergebnis_DE.pbix - Power BI report in German.
+7. Final_result_EN.pdf - Same report in English if you don't have Power BI.
+8. Endergebnis_DE.pdf - Same report in German if you don't have Power BI.
