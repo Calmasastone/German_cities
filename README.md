@@ -1,7 +1,7 @@
 This project covers crucial aspects of German cities:
 
 1. Financial Side: Salaries, expenses, available funds.
-2. Job landscape: Unemployment rates across regions and cities
+2. Job Landscape: Unemployment rates across regions and cities
 3. LinkedIn Job Ratio: Jobs on LinkedIn relative to city population.
 4. Population Density Map: Visualizing city demographics.
 5. Air Quality Index: Ecological situation.
