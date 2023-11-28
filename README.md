@@ -1,4 +1,4 @@
-This project covers crucial aspects of German cities:
+This Project Covers Crucial Aspects of German Cities:
 
 1. Financial Side: Salaries, expenses, available funds.
 2. Job Landscape: Unemployment rates across regions and cities
@@ -6,7 +6,7 @@ This project covers crucial aspects of German cities:
 4. Population Density Map: Visualizing city demographics.
 5. Air Quality Index: Ecological situation.
 
-GitHub files:
+GitHub Files:
 
 1. Germany_analysis.xlsx - collected data from various sources.
 2. Python_calculation.ipynb - calculations in Python, extracting insights.
